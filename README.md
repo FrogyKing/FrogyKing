@@ -38,7 +38,7 @@ Currently pursuing a Master's Degree in AI
 | Area | Description |
 |---|---|
 | 🔁 **MLOps at Scale** | Reproducible ML pipelines (Vertex AI, KFP), CI/CD, model registries, and drift detection using rigorous statistical tests (KS-test). |
-| 👁️ **Computer Vision** | Production-ready vision models optimized for real-world inference—not just benchmark accuracy. |
+| 👁️ **Computer Vision & Document AI** | Production-ready vision, OCR, and document-understanding systems optimized for real-world inference—not just benchmark accuracy. |
 | 🤖 **GenAI & Agents** | RAG systems and agentic applications built with LangChain, LangGraph, and Google ADK, including observability and continuous evaluation. |
 | ⚡ **Performance Engineering** | When performance matters, I optimize with C++ and CUDA instead of relying solely on high-level frameworks. |
 | ☁️ **Cloud-Native AI** | Cost-efficient architectures on GCP and AWS using Infrastructure as Code (Terraform) for reproducibility. |
@@ -59,6 +59,13 @@ Currently pursuing a Master's Degree in AI
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+### AI Serving & Applications
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ### MLOps & Data
 
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -78,6 +85,14 @@ Currently pursuing a Master's Degree in AI
 ---
 
 ## 🚀 Featured Projects
+
+### [DeepSeek OCR App](https://github.com/FrogyKing/deepseek-ocr-app)
+
+End-to-end document intelligence application powered by DeepSeek-OCR-2.
+
+Extracts structured Markdown from scanned documents and returns annotated images with detected regions and bounding boxes. GPU inference runs remotely on Modal and is exposed through an asynchronous FastAPI backend with a polished Streamlit interface.
+
+`DeepSeek-OCR-2` · `Document AI` · `Computer Vision` · `Modal GPU` · `FastAPI` · `Streamlit`
 
 ### 🐟 anchoveta-mlops
 
@@ -107,4 +122,4 @@ Financial analysis agent built on AWS Bedrock (AgentCore pattern) with real-time
 [ status ]  building → shipping → monitoring → repeat
 ```
 
-📫 Interested in production AI? Start with the repositories above.
+📫 Interested in production AI, Document AI, or MLOps? Start with the repositories above.
