@@ -1,4 +1,4 @@
-```
+```text
  ███████╗██████╗  ██████╗  ██████╗██╗   ██╗██╗  ██╗██╗███╗   ██╗ ██████╗
  ██╔════╝██╔══██╗██╔═══██╗██╔════╝╚██╗ ██╔╝██║ ██╔╝██║████╗  ██║██╔════╝
  █████╗  ██████╔╝██║   ██║██║  ███╗╚████╔╝ █████╔╝ ██║██╔██╗ ██║██║  ███╗
@@ -7,119 +7,169 @@
  ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-# AI/ML Engineer · Building Production AI Systems
+# ai/ml engineer · building production ai systems
 
-![Profile Views](https://komarev.com/ghpvc/?username=FrogyKing&color=00D9FF&style=flat-square&label=Profile+Views)
-![Focus](https://img.shields.io/badge/Focus-MLOps%20%7C%20Computer%20Vision%20%7C%20GenAI-00D9FF?style=flat-square)
-![Status](https://img.shields.io/badge/Currently-Master's%20Degree%20in%20AI-blueviolet?style=flat-square)
+![profile views](https://komarev.com/ghpvc/?username=FrogyKing&color=00d9ff&style=flat-square&label=profile+views)
+![focus](https://img.shields.io/badge/focus-deep_ai_%7C_ml_systems-00d9ff?style=flat-square)
+![status](https://img.shields.io/badge/currently-master%27s_in_ai-blueviolet?style=flat-square)
 
-I don't build notebook demos.
+### deep ai · applied math · ml systems
 
-I design and deploy Machine Learning, Computer Vision, and Generative AI systems that run in production at scale—complete with reproducible pipelines, drift monitoring, and real observability.
+hey, i'm frogyking. i like getting close to the math, close to the hardware, and close to what happens after deployment.
 
-Currently pursuing a **Master's Degree in Artificial Intelligence**, combining deep theoretical foundations (deep learning, optimization, and statistics) with hands-on production engineering experience.
-
----
+my lane: understanding how models learn, how inference moves through a gpu, and how an ml system earns its place in production. clean experiments, explicit tradeoffs, and evidence before hype. that's the vibe.
 
 ## `> whoami`
 
-```
---------------------------------------------------
-AI/ML Engineer focused on production systems
-Production Computer Vision projects
-End-to-end MLOps: ingestion → training → deployment → monitoring
-GenAI agents (RAG, multi-agent systems) on GCP and AWS
-Currently pursuing a Master's Degree in AI
---------------------------------------------------
-```
+currently pursuing a **master's degree in artificial intelligence**. connecting the theory to the engineering, one experiment at a time.
 
-## 🎯 What I Do
-
-| Area | Description |
-|---|---|
-| 🔁 **MLOps at Scale** | Reproducible ML pipelines (Vertex AI, KFP), CI/CD, model registries, and drift detection using rigorous statistical tests (KS-test). |
-| 👁️ **Computer Vision & Document AI** | Production-ready vision, OCR, and document-understanding systems optimized for real-world inference—not just benchmark accuracy. |
-| 🤖 **GenAI & Agents** | RAG systems and agentic applications built with LangChain, LangGraph, and Google ADK, including observability and continuous evaluation. |
-| ⚡ **Performance Engineering** | When performance matters, I optimize with C++ and CUDA instead of relying solely on high-level frameworks. |
-| ☁️ **Cloud-Native AI** | Cost-efficient architectures on GCP and AWS using Infrastructure as Code (Terraform) for reproducibility. |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Generative AI & Agents
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### AI Serving & Applications
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logo=modal&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### MLOps & Data
-
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Cloud
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Observability
-
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=langfuse&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [DeepSeek OCR App](https://github.com/FrogyKing/deepseek-ocr-app)
-
-End-to-end document intelligence application powered by DeepSeek-OCR-2.
-
-Extracts structured Markdown from scanned documents and returns annotated images with detected regions and bounding boxes. GPU inference runs remotely on Modal and is exposed through an asynchronous FastAPI backend with a polished Streamlit interface.
-
-`DeepSeek-OCR-2` · `Document AI` · `Computer Vision` · `Modal GPU` · `FastAPI` · `Streamlit`
-
-### 🐟 anchoveta-mlops
-
-End-to-end MLOps framework on Google Cloud for fish-density prediction.
-
-`Vertex AI Pipelines` · `BigQuery` · `Docker` · `Drift Detection (KS-test)` · `Walk-forward Validation`
-
----
-
-### 📞 telco-complaints-rag-classifier
-
-Telecommunications complaint classifier powered by Retrieval-Augmented Generation over historical semantic knowledge.
-
-`RAG` · `GCP` · `Langfuse` · `NLP`
-
----
-
-### 📈 aws-stock-ai-agent
-
-Financial analysis agent built on AWS Bedrock (AgentCore pattern) with real-time streaming.
-
-`LangGraph` · `FastAPI` · `AWS Bedrock` · `Cognito` · `Terraform`
-
----
-
-```
-[ status ]  building → shipping → monitoring → repeat
+```text
+the math       → optimization, probability, linear algebra, numerical stability
+the model      → representations, objectives, generalization, evaluation
+the machine    → memory traffic, parallelism, latency, throughput
+the system     → reproducibility, observability, cost, recovery
 ```
 
-📫 Interested in production AI, Document AI, or MLOps? Start with the repositories above.
+## 🚀 building right now
+
+### ⚡ 01 / helix-gpu-kernels
+
+**gpu inference optimization with cuda c++ and triton · active development**
+
+this is where i go below the model api: into kernels, memory access patterns, and the constraints that decide whether an optimization actually helps.
+
+the project centers on cuda c++ / triton inference work and benchmarks on modal. the engineering questions i'm working through:
+
+- **where is the bottleneck?** reason about arithmetic intensity, memory bandwidth, and compute limits before choosing an optimization.
+- **what belongs together?** explore tiling, data reuse, and fusion while accounting for register pressure and occupancy.
+- **does it stay correct?** compare against a reference with dtype-aware numerical tolerances; speed only matters when the output still holds up.
+- **does the comparison hold?** make hardware, shapes, dtypes, warmup, synchronization, and timing methodology explicit.
+
+```text
+benchmark discipline
+
+reference → correctness check → warmup → synchronized timing → comparison
+
+record: gpu / software versions / shape / dtype / workload
+inspect: latency distribution / throughput / numerical error
+speedup = reference latency / candidate latency
+          for the same workload and measurement conditions
+```
+
+the goal is faster inference with a defensible explanation of why. performance gains stay unclaimed until reproducible measurements support them.
+
+### 🛡️ 02 / sentinel-mlops-aws
+
+**cost-conscious production ml lifecycle on aws · active development**
+
+a model release is a decision under uncertainty. sentinel is where i'm working on the lifecycle around that decision: how to evaluate a candidate, observe changing data, limit rollout risk, and recover without making the cloud bill the main character.
+
+the design priorities:
+
+- **traceability:** connect data versions, training configuration, evaluation results, and model artifacts.
+- **drift:** distinguish changes in input distributions from changes in predictive quality; a drift alert is a signal to investigate, not proof that retraining will help.
+- **champion–challenger:** compare candidates against the incumbent using consistent evaluation criteria and relevant data slices.
+- **canary rollout and rollback:** expand traffic gradually, observe quality and operational signals, and define when to return to the previous version.
+- **cost discipline:** treat compute, storage, monitoring, and idle capacity as part of the design problem.
+
+```text
+intended lifecycle
+
+versioned data → train → evaluate challenger → promotion gate
+                                                  ↓
+monitor ← staged rollout ← canary ← candidate release
+   │                          │
+   ├─ drift → investigate     └─ guardrail breach → rollback
+   └─ feedback → next evaluation cycle
+```
+
+the target is a lifecycle with clear promotion criteria, observable behavior, and a credible recovery path. these are active development priorities, not a claim that every component is already complete.
+
+## 🧩 more projects
+
+### 👁️ 03 / [deepseek-ocr-app](https://github.com/FrogyKing/deepseek-ocr-app)
+
+a document intelligence application powered by deepseek-ocr-2: structured markdown from scanned documents, plus annotated images with detected regions and bounding boxes. remote gpu inference on modal connects to an asynchronous fastapi backend and a streamlit interface.
+
+`document ai` · `computer vision` · `modal gpu` · `fastapi` · `streamlit`
+
+### 🐟 04 / anchoveta-mlops
+
+an end-to-end mlops framework on google cloud for fish-density prediction. domain assumptions, reproducible pipelines, drift detection, and walk-forward validation meet in one applied problem.
+
+`vertex ai pipelines` · `bigquery` · `docker` · `ks-test` · `walk-forward validation`
+
+### 📞 05 / telco-complaints-rag-classifier
+
+a project around retrieval-augmented classification of telco complaints. the technical questions i care about: retrieval relevance, ambiguous labels, evidence grounding, and separating retrieval errors from classification errors.
+
+`rag` · `gcp` · `langfuse` · `nlp`
+
+## 🛠️ tech stack
+
+<details>
+<summary>open the toolbox — languages, inference, agents, cloud, and observability</summary>
+
+### ⚡ languages & gpu
+
+![python](https://img.shields.io/badge/python-3776ab?style=flat-square&logo=python&logoColor=white)
+![c++](https://img.shields.io/badge/c%2B%2B-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+![cuda](https://img.shields.io/badge/cuda-76b900?style=flat-square&logo=nvidia&logoColor=white)
+![triton](https://img.shields.io/badge/triton-222222?style=flat-square)
+
+### 🤖 generative ai & agents
+
+![langchain](https://img.shields.io/badge/langchain-1c3c3c?style=flat-square&logo=langchain&logoColor=white)
+![langgraph](https://img.shields.io/badge/langgraph-1c3c3c?style=flat-square&logo=langgraph&logoColor=white)
+![google adk](https://img.shields.io/badge/google_adk-4285f4?style=flat-square&logo=google&logoColor=white)
+
+### 👁️ serving & applications
+
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
+![modal](https://img.shields.io/badge/modal-000000?style=flat-square&logo=modal&logoColor=white)
+![streamlit](https://img.shields.io/badge/streamlit-ff4b4b?style=flat-square&logo=streamlit&logoColor=white)
+![hugging face](https://img.shields.io/badge/hugging_face-ffd21e?style=flat-square&logo=huggingface&logoColor=black)
+
+### 🔁 mlops & data
+
+![vertex ai](https://img.shields.io/badge/vertex_ai-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
+![bigquery](https://img.shields.io/badge/bigquery-669df6?style=flat-square&logo=googlebigquery&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![terraform](https://img.shields.io/badge/terraform-7b42bc?style=flat-square&logo=terraform&logoColor=white)
+
+### ☁️ cloud & observability
+
+![google cloud](https://img.shields.io/badge/google_cloud-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232f3e?style=flat-square)
+![langfuse](https://img.shields.io/badge/langfuse-000000?style=flat-square&logo=langfuse&logoColor=white)
+
+</details>
+
+## 🧠 how i think about the work
+
+**start with the objective.** the loss function, the evaluation metric, and the operational goal need to make sense together. optimizing a proxy is easy; checking whether it represents the actual problem takes more care.
+
+**respect the numerics.** precision, conditioning, accumulation order, and tolerances are part of the algorithm once it meets hardware.
+
+**evaluate beyond an average.** leakage, imbalance, calibration, distribution shift, and weak data slices can hide behind a clean aggregate score.
+
+**make systems inspectable.** a useful experiment should explain what changed. a useful deployment should explain what is running, how it is behaving, and how to recover.
+
+```text
+my engineering loop
+
+form a hypothesis
+    → establish a baseline
+    → change one thing deliberately
+    → measure correctness, quality, latency, and cost as relevant
+    → inspect failure cases
+    → keep what the evidence supports
+```
+
+good math. honest benchmarks. systems you can reason about. let's build.
+
+```text
+[ status ]  building → measuring → shipping → monitoring → repeat
+```
+
+📫 into gpu kernels, document ai, or mlops? let's talk shop.
