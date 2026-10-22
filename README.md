@@ -32,7 +32,7 @@ the system     → reproducibility, observability, cost, recovery
 
 ## 🚀 building right now
 
-### ⚡ 01 / helix-gpu-kernels
+### ⚡ 01 / [helix-gpu-kernels](https://github.com/FrogyKing/helix-gpu-kernels)
 
 **gpu inference optimization with cuda c++ and triton · active development**
 
@@ -58,7 +58,7 @@ speedup = reference latency / candidate latency
 
 the goal is faster inference with a defensible explanation of why. performance gains stay unclaimed until reproducible measurements support them.
 
-### 🛡️ 02 / sentinel-mlops-aws
+### 🛡️ 02 / [sentinel-mlops-aws](https://github.com/FrogyKing/sentinel-mlops-aws)
 
 **cost-conscious production ml lifecycle on aws · active development**
 
